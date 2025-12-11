@@ -37,4 +37,7 @@ This project predicts whether a customer will churn (leave a service) using mach
 
 ## Requirements
 - Python 3.x
+
 - Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
+
+<img src="https://github.com/pratimadhende/Customer_Churn_Prediction/blob/5a0b535a727981c1359663130dec69c7336b58a8/comfusion%20matrix.png" alt="Image Description" width="600">
